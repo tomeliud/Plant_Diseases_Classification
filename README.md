@@ -1,14 +1,13 @@
 ## Plant_Diseases_Classification_Using_Transfer_Learning
 In challenge we were tasked with classfying plant diseases. 
 
-##Research Questions
+## Research Questions
 To build a Machine Learning model that will help classify plant diseases with an accuracy score of 85% and above.
 
 ## Regression Algorithms
 TensorFlow 
 
 Transfer-Learning
-
 
 ## Setup and Installations
 Google Collabs/ Jupyter Notebooks
